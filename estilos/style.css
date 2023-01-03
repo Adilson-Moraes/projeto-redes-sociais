@@ -40,9 +40,10 @@ section#redes-sociais {
   text-align: right;
 }
 a > img {
-  width: 50px;
+  max-width: 30px;
   border-radius: 50%;
   margin: 10px;
+  margin-right: 0px;
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.522);
   box-sizing: border-box;
 }
